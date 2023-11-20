@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\interfaceTask\interfaceTask\obj\Debug\net6.0\interfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\interfaceTask\interfaceTask\obj\Debug\net6.0\interfaceTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\interfaceTask\interfaceTask\obj\Debug\net6.0\interfaceTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\interfaceTask\interfaceTask\obj\Debug\net6.0\interfaceTask.csproj.CoreCompileInputs.cache
